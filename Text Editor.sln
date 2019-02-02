@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Text Editor", "Text Editor\Text Editor.vcxproj", "{54A8432C-5CE8-44B4-BABD-C25684E37B69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54A8432C-5CE8-44B4-BABD-C25684E37B69}.Debug|x64.ActiveCfg = Debug|x64
+		{54A8432C-5CE8-44B4-BABD-C25684E37B69}.Debug|x64.Build.0 = Debug|x64
+		{54A8432C-5CE8-44B4-BABD-C25684E37B69}.Debug|x86.ActiveCfg = Debug|Win32
+		{54A8432C-5CE8-44B4-BABD-C25684E37B69}.Debug|x86.Build.0 = Debug|Win32
+		{54A8432C-5CE8-44B4-BABD-C25684E37B69}.Release|x64.ActiveCfg = Release|x64
+		{54A8432C-5CE8-44B4-BABD-C25684E37B69}.Release|x64.Build.0 = Release|x64
+		{54A8432C-5CE8-44B4-BABD-C25684E37B69}.Release|x86.ActiveCfg = Release|Win32
+		{54A8432C-5CE8-44B4-BABD-C25684E37B69}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D527403D-AF1B-4224-A5B3-0CF61BFFA497}
+	EndGlobalSection
+EndGlobal
